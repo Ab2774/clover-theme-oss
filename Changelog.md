@@ -8,3 +8,5 @@
 - Added `os-arch.icns`
 - Added `os_linux.icns`
 - Added `os_ubuntu.icns`
+# Clover Theme OSS v1.1.0
+- Updated icons to support the new clover theme engine
