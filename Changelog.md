@@ -10,3 +10,12 @@
 - Added `os_ubuntu.icns`
 # Clover Theme OSS v1.1.0
 - Updated icons to support the new clover theme engine
+# Clover Theme OSS v1.2.0
+- Updated all icons as macOS Big Sur style 
+- Updated all `Linux` icons as macOS Big Sur style (thanks @blackosx)
+- Added `OpenCore` support
+- Redesigned buttons
+- Fixed font
+- Deleted `os-arch.icns`
+- Deleted `os_linux.icns`
+- Deleted `os_ubuntu.icns`

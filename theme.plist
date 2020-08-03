@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Originally by lisai9093, updated by TheRacerMaster</string>
+	<string>Originally by lisai9093, updated by TheRacerMaster and Ab2774</string>
 	<key>Description</key>
 	<string>Mac-style theme</string>
 	<key>Theme</key>
@@ -31,17 +31,17 @@
 		<key>Components</key>
 		<dict>
 			<key>Banner</key>
-			<false/>
+			<true/>
 			<key>Functions</key>
 			<true/>
 			<key>Help</key>
-			<false/>
+			<true/>
 			<key>Label</key>
 			<true/>
 			<key>MenuTitle</key>
 			<true/>
 			<key>Revision</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Font</key>
 		<dict>
@@ -67,8 +67,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>1.3</string>
+	<string>1.6</string>
 	<key>Year</key>
-	<string>2016-2017</string>
+	<string>2020</string>
 </dict>
 </plist>
